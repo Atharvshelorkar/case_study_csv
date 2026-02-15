@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CsvComparison.BDD/CsvComparison.BDD.csproj" />
+  <Project Path="CsvComparison.ConsoleRunner/CsvComparison.ConsoleRunner.csproj" />
+  <Project Path="CsvComparison.Core/CsvComparison.Core.csproj" />
+</Solution>
