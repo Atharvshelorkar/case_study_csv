@@ -1,7 +1,10 @@
 ===== CSV Comparison Report =====
 
 Missing Records:
+001700_JOHN
 
 Unexpected Records:
+009999_EXTRA
 
 Field Mismatches:
+Failed Fieldname: SCOPE | Expected Input Value: "533.5761748850723" | Actual Value: "533.9761748850723" | for record having unique field Name: BAII with value: "001625"
